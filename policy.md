@@ -1,6 +1,6 @@
-[Extension Name] Privacy Policy
+[Extension_No_Popup_GoogleAuth] Privacy Policy
 
-[Date]
+[20240911]
 
 This Privacy Policy outlines how [Company Name] collects, uses, and protects your personal information when you use [Extension Name] (the "Extension").
 
@@ -40,9 +40,3 @@ We take appropriate security measures to protect your personal information from 
 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. We will notify you of any significant changes to this Privacy Policy.
-
-その他
-Google's Privacy Policy: If you use a Google account, the Google Privacy Policy also applies. Please refer to Google's website for more information.
-Use of Cookies: The Extension may use cookies. Cookies are small text files that are placed on your computer by websites.
-Third-Party Services: The Extension may use third-party services such as Google Analytics. Please refer to the privacy policies of these third-party services for more information.
-Disclaimer: This is a sample privacy policy and may not address all legal requirements. It is recommended that you consult with an attorney to ensure that your privacy policy complies with all applicable laws and regulations.
